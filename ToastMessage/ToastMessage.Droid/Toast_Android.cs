@@ -5,7 +5,7 @@ using ToastMessage.Droid;
 [assembly: Dependency(typeof(Toast_Android))]
 namespace ToastMessage.Droid
 {
-    public class Toast_Android : Toast
+    public class Toast_Android: Toast
     {
         public void Show(string Message)
         {
