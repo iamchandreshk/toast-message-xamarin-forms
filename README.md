@@ -1,4 +1,4 @@
-# ToastMessage
+# Toast-Message-Xamarin-Forms
 
 DependencyService in Xamarin.Forms: Step by Step guidance
 
